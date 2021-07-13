@@ -1,0 +1,32 @@
+[
+  [
+  {"url":"http://localhost:8081/img/swiper/1.jpg","page":1,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+  {"url":"http://localhost:8081/img/swiper/2.jpg","page":2,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+  {"url":"http://localhost:8081/img/swiper/3.jpg","page":3,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+  {"url":"http://localhost:8081/img/swiper/4.jpg","page":4,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"}
+  ],
+  [
+    {"url":"http://localhost:8081/img/swiper/5.jpg","page":4,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+    {"url":"http://localhost:8081/img/swiper/6.jpg","page":5,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+    {"url":"http://localhost:8081/img/swiper/7.jpg","page":6,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+    {"url":"http://localhost:8081/img/swiper/8.jpg","page":7,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"}
+    ],
+    [
+      {"url":"http://localhost:8081/img/swiper/3.jpg","page":3,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+      {"url":"http://localhost:8081/img/swiper/2.jpg","page":2,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+      {"url":"http://localhost:8081/img/swiper/1.jpg","page":1,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+      {"url":"http://localhost:8081/img/swiper/2.jpg","page":6,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"}
+      ],
+      [
+        {"url":"http://localhost:8081/img/swiper/6.jpg","page":1,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+        {"url":"http://localhost:8081/img/swiper/5.jpg","page":2,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+        {"url":"http://localhost:8081/img/swiper/4.jpg","page":3,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+        {"url":"http://localhost:8081/img/swiper/2.jpg","page":4,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"}
+        ],
+        [
+          {"url":"http://localhost:8081/img/swiper/3.jpg","page":1,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+          {"url":"http://localhost:8081/img/swiper/8.jpg","page":2,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+          {"url":"http://localhost:8081/img/swiper/1.jpg","page":3,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"},
+          {"url":"http://localhost:8081/img/swiper/6.jpg","page":4,"asdf":"asdf","title":"我是标题","vtitle":"我是副标题","price":"￥199.00"}
+          ]
+]
